@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 # MIT License
 
 # Copyright (c) 2020 Enderson Tadeu Salgueiro Maia
