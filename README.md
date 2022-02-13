@@ -115,6 +115,6 @@ secao_id    CHAR(1)
 
 ## Licença
 
-O código fonte deste projeto é [MIT License](LICENSE), Copyright (c) 2020 Enderson Tadeu Salgueiro Maia.
+O código fonte deste projeto é [MIT License](LICENSE), Copyright (c) 2020-2022 Enderson Tadeu Salgueiro Maia.
 
 Os dados são obtivos através da [API do IBGE](https://servicodados.ibge.gov.br/api/docs/cnae?versao=2).
